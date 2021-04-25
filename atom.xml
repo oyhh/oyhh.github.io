@@ -6,7 +6,7 @@
   <link href="https://oyhh.github.io/atom.xml" rel="self"/>
   
   <link href="https://oyhh.github.io/"/>
-  <updated>2021-04-25T09:51:30.074Z</updated>
+  <updated>2021-04-25T10:49:29.911Z</updated>
   <id>https://oyhh.github.io/</id>
   
   <author>
@@ -21,20 +21,21 @@
     <link href="https://oyhh.github.io/2021/04/25/SeetaFace2/"/>
     <id>https://oyhh.github.io/2021/04/25/SeetaFace2/</id>
     <published>2021-04-25T09:50:08.000Z</published>
-    <updated>2021-04-25T09:51:30.074Z</updated>
+    <updated>2021-04-25T10:49:29.911Z</updated>
     
-    <content type="html"><![CDATA[<p>今天成功运行SeetaFace2，值得纪念！</p><p>主要问题：<br>照片应该和可执行文件放在同一级目录<br>编译只需要在bin目录下make即可</p><p>![alt] (SF_example.png)</p><!--<img src="/2021/04/25/SeetaFace2/SF_example.png" class="" title="SeetaFace2人脸识别例子">-->]]></content>
+    <content type="html"><![CDATA[<p>今天成功运行SeetaFace2，值得纪念！</p><p>主要问题：<br>照片应该和可执行文件放在同一级目录<br>编译只需要在bin目录下make即可</p><p>———————————————————————————————————<br>另外还学了学怎么在hexo上放图片哈哈哈哈~</p><p><img src="/2021/04/25/SeetaFace2/celeste2.jpg" alt="celeste"></p><img src="/2021/04/25/SeetaFace2/SF_example.png" class title="SeetaFace2人脸识别例子"><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">![celeste](celeste2.jpg)</span><br><span class="line"></span><br><span class="line">&#123;% asset_img SF_example.png SeetaFace2人脸识别例子 %&#125;</span><br></pre></td></tr></table></figure><p>hexo放置图片参考链接：</p><p><a href="https://blog.csdn.net/weixin_34348805/article/details/91389277">https://blog.csdn.net/weixin_34348805/article/details/91389277</a><br><a href="https://blog.csdn.net/xjm850552586/article/details/84101345">https://blog.csdn.net/xjm850552586/article/details/84101345</a></p><head>    <script src="//unpkg.com/valine/dist/Valine.min.js"></script></head><body>    <div id="vcomments"></div>    <script>        new Valine({            el: '#vcomments',            appId: 'cWzvFtxi1eXy0iwnLqSbl4P4-gzGzoHsz',            appKey: 'aBxXrdT0g6OyCvqeUuQ9nVcO'        })    </script></body>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;今天成功运行SeetaFace2，值得纪念！&lt;/p&gt;
 &lt;p&gt;主要问题：&lt;br&gt;照片应该和可执行文件放在同一级目录&lt;br&gt;编译只需要在bin目录下make即可&lt;/p&gt;
-&lt;p&gt;![alt] (SF_example.png)&lt;/p&gt;
-&lt;!--&lt;img src=&quot;/2021/04/</summary>
+&lt;p&gt;———————————————————————————————————&lt;br&gt;另外还学了学怎么在hex</summary>
       
     
     
+    
+    <category term="技术" scheme="https://oyhh.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
