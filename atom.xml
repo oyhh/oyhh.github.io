@@ -6,7 +6,7 @@
   <link href="https://oyhh.github.io/atom.xml" rel="self"/>
   
   <link href="https://oyhh.github.io/"/>
-  <updated>2021-04-25T02:12:41.265Z</updated>
+  <updated>2021-04-25T09:51:30.074Z</updated>
   <id>https://oyhh.github.io/</id>
   
   <author>
@@ -17,19 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>page</title>
-    <link href="https://oyhh.github.io/2021/04/25/page/"/>
-    <id>https://oyhh.github.io/2021/04/25/page/</id>
-    <published>2021-04-25T02:12:02.000Z</published>
-    <updated>2021-04-25T02:12:41.265Z</updated>
+    <title>SeetaFace2</title>
+    <link href="https://oyhh.github.io/2021/04/25/SeetaFace2/"/>
+    <id>https://oyhh.github.io/2021/04/25/SeetaFace2/</id>
+    <published>2021-04-25T09:50:08.000Z</published>
+    <updated>2021-04-25T09:51:30.074Z</updated>
     
-    <content type="html"><![CDATA[<p>hello world?!</p>]]></content>
+    <content type="html"><![CDATA[<p>今天成功运行SeetaFace2，值得纪念！</p><p>主要问题：<br>照片应该和可执行文件放在同一级目录<br>编译只需要在bin目录下make即可</p><p>![alt] (SF_example.png)</p><!--<img src="/2021/04/25/SeetaFace2/SF_example.png" class="" title="SeetaFace2人脸识别例子">-->]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;hello world?!&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;今天成功运行SeetaFace2，值得纪念！&lt;/p&gt;
+&lt;p&gt;主要问题：&lt;br&gt;照片应该和可执行文件放在同一级目录&lt;br&gt;编译只需要在bin目录下make即可&lt;/p&gt;
+&lt;p&gt;![alt] (SF_example.png)&lt;/p&gt;
+&lt;!--&lt;img src=&quot;/2021/04/</summary>
       
     
     
